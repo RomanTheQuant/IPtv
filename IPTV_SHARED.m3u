@@ -2363,6 +2363,60 @@ http://cdn.admuspeh.my/8573/video.m3u8?token=iptvshared
 #EXTINF:-1 group-title="Кинозалы Gold Line [нестабильные]", Gold Line Невский
 http://cdn.admuspeh.my/8501/video.m3u8?token=iptvshared
 
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Anime
+http://anime.stream4k.ru/anime/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K HBO series
+http://NBO_series_4k.stream4k.ru/NBO_series_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Rock and Metal Hub
+http://heavy_metal_4k.stream4k.ru/heavy_metal_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Netflix
+http://Netflix_4K.stream4k.ru/Netflix_4K/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Russian music
+http://russian_music_4k.stream4k.ru/russian_music_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",CLARITY4K World Music
+http://music_1_4K.stream4k.ru/music_1_4K/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K АвтоМастер
+http://AutoMaster_4k.stream4k.ru/AutoMaster_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Русские сериалы
+http://military_4k.stream4k.ru/military_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Around The World
+http://relax_fireplace_4k.stream4k.ru/relax_fireplace_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Единоборства
+http://martial_arts_4k.stream4k.ru/martial_arts_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Звериный мир
+http://animal_world_4k.stream4k.ru/animal_world_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Истории во времени
+http://stories_in_time_4k.stream4k.ru/stories_in_time_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K КиноНовинки
+http://MovieNews.stream4k.ru/MovieNews/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K КиноФраншизы
+http://movie_90s_4k.stream4k.ru/movie_90s_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Приключения
+http://adventures_4K.stream4k.ru/adventures_4K/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Путешествие
+http://travel_dok_4k.stream4k.ru/travel_dok_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Семейный
+http://family_4k.stream4k.ru/family_4k/video.m3u8?token=PETWQvXOn7uIh3
+
+#EXTINF:-1 group-title="Кинозалы Clarity4K [нестабильные]",Clarity4K Ужасы
+http://horrors.stream4k.ru/horrors/video.m3u8?token=PETWQvXOn7uIh3
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ [нестабильные]",В кругу семьи HD
 http://fs2.persik.by/V_krugu_semii4/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ [нестабильные]",Семейное HD
