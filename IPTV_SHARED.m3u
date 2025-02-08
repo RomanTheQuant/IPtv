@@ -4555,70 +4555,70 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Техно 24 (EDTV)
 
 
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Хобби и увлечения",TLC (EDTV)
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="Познавательные и увлечения",TLC (EDTV)
 http://dmi3y-tv.ru/hls/CH_TLC.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Хобби и увлечения",Viju EXPLORE (EDTV)
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Познавательные и увлечения",Viju EXPLORE (EDTV)
 http://213.226.137.140:81/tl/l94/mpegts
-#EXTINF:-1 tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="Хобби и увлечения",АВТО 24 (EDTV)
+#EXTINF:-1 tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="Познавательные и увлечения",АВТО 24 (EDTV)
 http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
-#EXTINF:-1 tvg-id="appetitny" tvg-logo="https://epg.iptvx.one/picons/appetitny.png" group-title="Хобби и увлечения",Аппетитный (EDTV)
+#EXTINF:-1 tvg-id="appetitny" tvg-logo="https://epg.iptvx.one/picons/appetitny.png" group-title="Познавательные и увлечения",Аппетитный (EDTV)
 http://185.50.148.2:7703/Motorsport/index.m3u8
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр (EDTV)
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Познавательные и увлечения",Бобёр (EDTV)
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Хобби и увлечения",Глазами туриста (HD)
+#EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Познавательные и увлечения",Глазами туриста (HD)
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения",Диалоги о рыбалке (EDTV)
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Познавательные и увлечения",Диалоги о рыбалке (EDTV)
 http://130.193.73.10:8937/play/a04q
-#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Хобби и увлечения",Доктор (EDTV)
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Познавательные и увлечения",Доктор (EDTV)
 http://130.193.73.10:8937/play/a01q
-#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="Хобби и увлечения",Домашние Животные (EDTV)
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="Познавательные и увлечения",Домашние Животные (EDTV)
 http://130.193.73.10:8937/play/a02d
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png" group-title="Хобби и увлечения",Дикая Охота (HD)
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png" group-title="Познавательные и увлечения",Дикая Охота (HD)
 http://stream01.vnet.am/Channel_127/mono.m3u8
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://iptvx.one/picons/dikaya-rybalka-hd.png" group-title="Хобби и увлечения",Дикая Рыбалка (HD)
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="https://iptvx.one/picons/dikaya-rybalka-hd.png" group-title="Познавательные и увлечения",Дикая Рыбалка (HD)
 http://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения",Дикий (EDTV)
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Познавательные и увлечения",Дикий (EDTV)
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Хобби и увлечения",ДРАЙВ (EDTV)
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Познавательные и увлечения",ДРАЙВ (EDTV)
 http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Хобби и увлечения",Еда (EDTV)
+#EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Познавательные и увлечения",Еда (EDTV)
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
-#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="Хобби и увлечения",Живи Активно (HD)
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="Познавательные и увлечения",Живи Активно (HD)
 https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь (EDTV)
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Познавательные и увлечения",Загородная Жизнь (EDTV)
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="Хобби и увлечения",Загородный (EDTV)
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="Познавательные и увлечения",Загородный (EDTV)
 http://185.23.80.28:8080/Zagorodnyj/index.m3u8?token=test
-#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="Хобби и увлечения",Загородный Int (HD)
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="Познавательные и увлечения",Загородный Int (HD)
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Хобби и увлечения",Здоровое ТВ (EDTV)
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Познавательные и увлечения",Здоровое ТВ (EDTV)
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8903.png" group-title="Хобби и увлечения",Кулинар ТВ (EDTV)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://only4.tv/ch/8903.png" group-title="Познавательные и увлечения",Кулинар ТВ (EDTV)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://iptvx.one/picons/lapki-live.png" group-title="Хобби и увлечения",Лапки Live (EDTV)
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://iptvx.one/picons/lapki-live.png" group-title="Познавательные и увлечения",Лапки Live (EDTV)
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Хобби и увлечения",Мужской (EDTV)
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="Познавательные и увлечения",Мужской (EDTV)
 http://185.23.80.28:8080/Muzhskoy/index.m3u8?token=test
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png" group-title="Хобби и увлечения",Наша Тема (HD)
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png" group-title="Познавательные и увлечения",Наша Тема (HD)
 https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczOTE3NDQzOCwiaHdpZCI6IjYzN2VjMDBmZjA2YjFjNmFmZjA1NTk0MWMzZWM2NTVjODM0OGVmMTQ2Zjk1ZDlmODIyNGE4MjY0NzRjZjlhOTgiLCJsYXN0X3JlcV9kYXRlIjoxNzM4NTY5NjM4LCJzZXNzaW9uX2lkIjoiMTNkYWNjNDZiZjg1ZDJiODIwY2I3ZDEyYzU1MjNjZmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VRXZo4VO6eTTCQcmGRvYxwAxGYN8CKdtxi2sadY9k-A
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Хобби и увлечения",НТВ Стиль (WSVGA)
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Познавательные и увлечения",НТВ Стиль (WSVGA)
 http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Хобби и увлечения",Открытый мир (WSVGA)
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Познавательные и увлечения",Открытый мир (WSVGA)
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Хобби и увлечения",ОХОТА И РЫБАЛКА (EDTV)
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Познавательные и увлечения",ОХОТА И РЫБАЛКА (EDTV)
 http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" group-title="Хобби и увлечения",Приключения (FWVGA)
+#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" group-title="Познавательные и увлечения",Приключения (FWVGA)
 http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Хобби и увлечения",Рыболов (EDTV)
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Познавательные и увлечения",Рыболов (EDTV)
 http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Хобби и увлечения",Светлое ТВ (EDTV)
+#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Познавательные и увлечения",Светлое ТВ (EDTV)
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Хобби и увлечения",Тонус (EDTV)
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Познавательные и увлечения",Тонус (EDTV)
 http://stream01.vnet.am/ZooTv/mono.m3u8
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="Хобби и увлечения",Точка Отрыва (EDTV)
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="Познавательные и увлечения",Точка Отрыва (EDTV)
 http://130.193.73.10:8937/play/a021
-#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Хобби и увлечения",Усадьба (EDTV)
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Познавательные и увлечения",Усадьба (EDTV)
 http://130.193.73.10:8937/play/a024
 
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="Региональные",12 Канал (Омск) (HD)
@@ -5525,87 +5525,87 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 
 
-#EXTINF:-1 group-title="Политические", БелРос
+#EXTINF:-1 group-title="Новости", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Политические", Вместе-РФ 
+#EXTINF:-1 group-title="Новости", Вместе-РФ 
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", Дума ТВ 
+#EXTINF:-1 group-title="Новости", Дума ТВ 
 https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", Красная линия 
+#EXTINF:-1 group-title="Новости", Красная линия 
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Политические", ЛДПР ТВ 
+#EXTINF:-1 group-title="Новости", ЛДПР ТВ 
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Политические", ПРНК
+#EXTINF:-1 group-title="Новости", ПРНК
 http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Хобби", Авто 24
+#EXTINF:-1 group-title="Познавательные", Авто 24
 http://178.124.152.238:8088/auto24
-#EXTINF:-1 group-title="Хобби", Авто Плюс 
+#EXTINF:-1 group-title="Познавательные", Авто Плюс 
 http://213.226.137.140:81/tl/l105/index.m3u8
-#EXTINF:-1 group-title="Хобби", Аппетитный
+#EXTINF:-1 group-title="Познавательные", Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобëр
+#EXTINF:-1 group-title="Познавательные" tvg-id="bobior", Бобëр
 http://195.18.23.20:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+#EXTINF:-1 group-title="Познавательные", Диалоги о рыбалке
 http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Дикая охота HD 
+#EXTINF:-1 group-title="Познавательные", Дикая охота HD 
 http://stream01.vnet.am/Channel_127/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
+#EXTINF:-1 group-title="Познавательные", Дикая рыбалка HD
 http://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Дикий 
+#EXTINF:-1 group-title="Познавательные", Дикий 
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 group-title="Хобби", Драйв
+#EXTINF:-1 group-title="Познавательные", Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Еда
+#EXTINF:-1 group-title="Познавательные", Еда
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Живи
+#EXTINF:-1 group-title="Познавательные", Живи
 http://195.18.23.20:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="Хобби", Живи Активно
+#EXTINF:-1 group-title="Познавательные", Живи Активно
 https://flussonic.salomtv.uz/JiviaktivnoHD/video.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
-#EXTINF:-1 group-title="Хобби", Загородный 
+#EXTINF:-1 group-title="Познавательные", Загородный 
 http://stream01.vnet.am/DTX/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Конный мир 
+#EXTINF:-1 group-title="Познавательные", Конный мир 
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Кухня
+#EXTINF:-1 group-title="Познавательные", Кухня
 http://213.226.137.140:81/tl/l65/index.m3u8
-#EXTINF:-1 group-title="Хобби", Лапки Live
+#EXTINF:-1 group-title="Познавательные", Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 group-title="Хобби", Мама
+#EXTINF:-1 group-title="Познавательные", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
-#EXTINF:-1 group-title="Хобби", Моя стихия 
+#EXTINF:-1 group-title="Познавательные", Моя стихия 
 http://130.193.73.10:8937/play/a02f
-#EXTINF:-1 group-title="Хобби", Мужской 
+#EXTINF:-1 group-title="Познавательные", Мужской 
 http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 group-title="Хобби", НТВ Стиль
+#EXTINF:-1 group-title="Познавательные", НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Хобби", Охота и рыбалка 
+#EXTINF:-1 group-title="Познавательные", Охота и рыбалка 
 http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
+#EXTINF:-1 group-title="Познавательные", Охотник и рыболов HD
 http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Первый вегетарианский
+#EXTINF:-1 group-title="Познавательные", Первый вегетарианский
 http://185.23.80.28:8080/PervyjVegetarianskij/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Пес и Ко
+#EXTINF:-1 group-title="Познавательные", Пес и Ко
 http://185.23.80.28:8080/PyosIKo/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Рыболов
+#EXTINF:-1 group-title="Познавательные", Рыболов
 http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
-#EXTINF:-1 group-title="Хобби", Телекафе
+#EXTINF:-1 group-title="Познавательные", Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
-#EXTINF:-1 group-title="Хобби", Усадьба
+#EXTINF:-1 group-title="Познавательные", Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion TV HD
+#EXTINF:-1 group-title="Познавательные", Fashion TV HD
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="Хобби", Fashion TV UHD
+#EXTINF:-1 group-title="Познавательные", Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="Хобби", Food Network 
+#EXTINF:-1 group-title="Познавательные", Food Network 
 rtmp://212.0.213.132//Joy_Cook
-#EXTINF:-1 group-title="Хобби", Food Network HD
+#EXTINF:-1 group-title="Познавательные", Food Network HD
 http://213.226.137.140:81/tl/l98/mpegts
-#EXTINF:-1 group-title="Хобби", World Fashion Channel
+#EXTINF:-1 group-title="Познавательные", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 
 
