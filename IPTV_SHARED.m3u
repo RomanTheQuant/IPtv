@@ -1264,22 +1264,22 @@ https://132544.edgevideo.ru/streams/132544_839765/1325441080/index.m3u8
 http://cdn.admuspeh.my/8947/index.m3u8?token=iptvshared
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
-http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_tv1000russkoekinohd/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
 https://flussonic.salomtv.uz/TV1000rus/video.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
-http://185.50.148.2:7703/TV1000/index.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_tv1000hd/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=wwti_y32n99TetZ6XoOeKg&e=1740246227&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-http://185.50.148.2:7703/TV1000Action/index.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_tvxxi/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=q3QeNcRuyJE_gzISS9FWmg&e=1739560223&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=aPP5XBTN0AifLCMEptXtAQ&e=1740246462&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad50
 
 #EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=QqdyfDPQu79V9Hr30o-j_w&e=1740246539&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -3267,7 +3267,7 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://sun9-68.userapi.com/impf/c623220/v623220340/3ebaa/E7M6C-h4pEk.jpg?size=604x279&quality=96&sign=b9b9dd3fe5b0134a1f221a49dbe82f48&c_uniq_tag=QC3N3lwffhiofOKU_ct7YyVLUeMP3whHK2drRunonEo&type=album" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",АТВ-Ставрополь
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
-#EXTINF:-1 tvg-id="aist" catchup="append" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjc38W7qRchTrRE2r6awWFGxI8Vi84NwAVQ&usqp=CAU&.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Аист HD
+#EXTINF:-1 tvg-id="aist" catchup="append" tvg-logo="https://epg.iptvx.one/picons/aist.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Аист
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
 #EXTINF:-1 tvg-id="aktis" catchup="append" tvg-logo="https://tvbesedka.com/Upload/2020/10/26/21/24/28/3af7cd08-8107-4a39-a219-af42b3dba5f6.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",Актис HD
