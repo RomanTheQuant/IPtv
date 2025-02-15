@@ -1278,19 +1278,19 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst
 http://cdn.admuspeh.my/8947/index.m3u8?token=iptvshared
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
-http://77.239.125.42:8070/@Dimonovich1982_tv1000russkoekinohd/index.m3u8
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
 http://cdn.admuspeh.my/8050/index.m3u8?token=iptvshared
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
-http://77.239.125.42:8070/@Dimonovich1982_tv1000hd/index.m3u8
+http://185.50.148.2:7703/TV1000/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=wwti_y32n99TetZ6XoOeKg&e=1740246227&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
-http://77.239.125.42:8070/@Dimonovich1982_tvxxi/index.m3u8
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=aPP5XBTN0AifLCMEptXtAQ&e=1740246462&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad50
@@ -1299,7 +1299,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tra
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=QqdyfDPQu79V9Hr30o-j_w&e=1740246539&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=q3QeNcRuyJE_gzISS9FWmg&e=1739560223&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=DLWkmBG0zv4hvu_gg7jXpg&e=1739870752&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="cinema" group-title="Кино и сериалы",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
@@ -1308,22 +1308,25 @@ http://178.124.152.238:8088/cinema
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Кино и сериалы", Viasat Kino Comedy HD
-http://213.226.137.140:81/tl/l1243/mpegts
+http://213.226.137.140:81/tl/l1243/video.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 1
 http://178.57.121.38:8080/amedia/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
-http://77.239.125.42:8070/@Dimonovich1982_a2prolybov/index.m3u8
+http://185.50.148.2:7707/A2/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 2 HD
+http://cdn.admuspeh.my/8927/index.m3u8?token=iptvshared
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
-http://77.239.125.42:8070/@Dimonovich1982_amediahithd/index.m3u8
+http://213.226.137.140:81/tl/l90/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit HD
 http://cdn.admuspeh.my/8159/index.m3u8?token=iptvshared
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium
-http://77.239.125.42:8070/@Dimonovich1982_amediapremium/index.m3u8
+http://185.50.148.2:7707/AmediaPremium/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
@@ -1331,11 +1334,20 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",.black
 http://31.47.199.45:1401/black/index.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы", .black HD
+http://cdn.admuspeh.my/8663/index.m3u8?token=iptvshared
+
 #EXTINF:-1 group-title="Кино и сериалы",.red
 http://31.47.199.45:1401/red/index.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы",.red HD
+http://cdn.admuspeh.my/8929/index.m3u8?token=iptvshared
+
 #EXTINF:-1 group-title="Кино и сериалы",.sci-fi
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",.sci-fi HD
+http://cdn.admuspeh.my/8115/index.m3u8?token=iptvshared
 
 #EXTINF:-1 tvg-id="kino-bez-granic" group-title="Кино и сериалы", Кино без границ
 http://185.50.148.2:7703/Detskiy/index.m3u8
@@ -1344,7 +1356,7 @@ http://185.50.148.2:7703/Detskiy/index.m3u8
 http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
 
 #EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air
 http://77.239.125.42:8070/@Dimonovich1982_startairhd/index.m3u8
