@@ -282,8 +282,8 @@ http://stream01.vnet.am/Fightbox/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-cache.wrestlingnewssource.com/u/d56737530d42b6738680ab9dd0bc81f1_600_400.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/martial-arts-logo-design-vector-template_565520-677.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Martial Arts 4K
-http://martial_arts_4k.stream4k.ru/martial_arts_4k/video.m3u8?token=PETWQvXOn7uIh3
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900960.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Спортивные",Swerve Sports
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
@@ -5894,17 +5894,11 @@ http://cdn.admuspeh.my/8869/index.m3u8?token=iptvshared
 #EXTINF:-1 tvg-id="hustler-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Hustler TV
 http://45.87.172.19:85/Hustler/index.m3u8
 
-#EXTINF:-1 tvg-id="hustler-hd" group-title="Взрослые [ВХОД СТРОГО 18+]", Hustler HD
-http://cdn-nvm-chicago3.lolokoko.tv/HUSTLER.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="super-one" group-title="Взрослые [ВХОД СТРОГО 18+]", Super One HD
 http://45.87.172.19:85/SuperOne_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="private-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Private HD
 http://45.87.172.19:85/PrivateTV/index.m3u8
-
-#EXTINF:-1 tvg-id="xxl-xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", XXL
-https://cdn-nvm-chicago3.lolokoko.tv/xxl.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
 #EXTVLCOPT:http-user-agent=Wink
