@@ -1080,8 +1080,11 @@ http://185.23.80.28:8080/Muzhskoy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="dikiy" group-title="Познавательные", Дикий
 http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные",Дикая охота
+http://stream01.vnet.am/Channel_127/mono.m3u8
+
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Познавательные",Дикая охота HD
-http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
+http://dmitry-tv.ddns.net/hls/CH_DIKAYAOHOTAHD.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Познавательные", Дикая рыбалка HD
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
@@ -1089,7 +1092,7 @@ http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
 http://flu.ttk.mx:90/Ohota_i_rybalka/mono.m3u8?token=hs06e
 
-#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка SD
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAxNTA5ODAsImlhdCI6MTc0MDA2NDU4MCwiY2lkIjo2LCJ1aWQiOjg5NTQzMjMwOCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.gV6CTL7ChkHm5Iqvqaeuv86Hu_q45NhvrUF3xx2idZ0&offset=3
 
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Познавательные", Диалоги о рыбалке
