@@ -327,6 +327,9 @@ http://cdn.admuspeh.my/8163/video.m3u8?token=qwFZqkLzC2pK6whe
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
 http://s2.mitvcinema.ru:2095/channel_623/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
 
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
+http://158.101.211.157:2020/channel/6d393086/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/eurosport-hd-live-logo.png" tvg-id="no_epg_sport" group-title="Спортивные", live Eurosport GOLD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
@@ -414,6 +417,12 @@ https://tv.movielab.pro/943/video.m3u8?token=5c6597e23461c41b55f47bf751777c5c971
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные", Setanta Казахстан
 https://tv.movielab.pro/5094/video.m3u8?token=b3caa5b469c0c2cef58edbe81c8b200eb0faff2c-2ec97c344c16ac749dbaf1f0e280e342-1740167966-1740081566
+
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные",Окко Спорт HD
+http://158.101.211.157:2020/channel/79f39dd7/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
+#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные",Окко Футбол HD
+http://158.101.211.157:2020/channel/n2388d82c/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
 http://185.50.148.2:7703/ViasatSport/index.m3u8
@@ -904,7 +913,7 @@ http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://s2.mitvcinema.ru:2095/channel_1826/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
-https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=lPrPKDGEYpjPTPCQ8KvfhA&e=1740171810&scheme=https
+http://158.101.211.157:2020/channel/n515934c8/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 tvg-id="hgtv-pl" group-title="Познавательные", HGTV HD [PL]
 http://178.219.128.68:64889/HGTVHD
@@ -1209,6 +1218,9 @@ http://77.239.125.42:8070/@Dimonovich1982_viasatgolfhd/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAyMDg1ODAsImlhdCI6MTc0MDEyMjE4MCwiY2lkIjo2LCJ1aWQiOjg5NTYxMjA2MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.y1lparzIIOtE3ztF26KuVa6wM7Bpp-clw3rhRQSuhwE&offset=3
 
+#EXTINF:-1 tvg-id="4k-ruskino" group-title="Кино и сериалы",4К Русское кино
+http://158.101.211.157:2020/channel/30e32928/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
 
@@ -1409,6 +1421,9 @@ https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.
 
 #EXTINF:-1 group-title="Кино и сериалы", Дорама HD
 http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
+
+#EXTINF:-1 tvg-id="filmua-drama" group-title="Кино и сериалы", Film.Ua Drama HD
+http://hls127.homeiptv.org:8080/FilmUADramaHD/video.m3u8
 
 #EXTINF:-1 tvg-id="rus-hualiang-tv" group-title="Кино и сериалы", Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -1661,6 +1676,12 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tnt-fun.ru/wp-content/uploads/2016/05/interni-logo.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Интерны
+http://hls127.homeiptv.org:8080/Kinozal_Intern_HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://sun9-67.userapi.com/c701/u55550134/109923534/x_78c0e16b.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы", Универ
+http://hls127.homeiptv.org:8080/Kinozal_univer/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg?itok=cAN6QlYt" tvg-id="no_epg_cinema" group-title="Кинозалы", 1FILMAX
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -2191,14 +2212,8 @@ http://hls127.homeiptv.org:8080/Clarity4K_Uzhasi/video.m3u8
 #EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Фэнтези
 http://hls127.homeiptv.org:8080/Clarity4K_Fentazi/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/9013.png" group-title="Кинозалы Clarity4k",Clarity4K Rock and Metal Hub
-http://heavy_metal_4k.stream4k.ru/heavy_metal_4k/video.m3u8?token=PETWQvXOn7uIh3
-
 #EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Anime
 http://hls127.homeiptv.org:8080/Clarity4K_Anime/video.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/1010/d9/c10963367629d69525fb2fd15ffe46d9.png" group-title="Кинозалы Clarity4k",Clarity4k Deep House
-http://hls127.homeiptv.org:8080/Clarity4K_Concert/video.m3u8
 
 #EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Walt Disney
 http://hls127.homeiptv.org:8080/Clarity4K_Walt_Disney/video.m3u8
