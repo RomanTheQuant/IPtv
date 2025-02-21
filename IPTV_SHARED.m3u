@@ -5751,5 +5751,11 @@ http://cdn.adultiptv.net/lesbian.m3u8
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="Познавательные", TESTCryptoStrapmanLab
-http://holdmeforever.online:8040/live/livestream.m3u8
+#EXTINF:-1 group-title="Познавательные", TESTCryptoTV
+http://holdmeforever.online:8030/memfs/72881094-78e8-44c8-bd2d-c50e3a3797cb.m3u8
+
+#EXTINF:-1 group-title="Познавательные", TESTShortsTV
+http://holdmeforever.online:8030/memfs/8f64bd5c-c5aa-445c-8658-4dc18fd10215.m3u8
+
+#EXTINF:-1 group-title="Познавательные", TESTYoutubeMusicTV
+http://holdmeforever.online:8030/memfs/aef8ed11-6301-4da3-b092-b8817f296a8d.m3u8
