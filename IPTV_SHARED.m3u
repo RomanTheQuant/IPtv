@@ -907,9 +907,6 @@ http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV
-http://s2.mitvcinema.ru:2095/channel_1826/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
-
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
 http://158.101.211.157:2020/channel/n515934c8/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
@@ -1239,14 +1236,11 @@ https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/pl
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
 https://stream-msk-19.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
 
-#EXTINF:-1 tvg-id="plan-b" group-title="Кино и сериалы",Plan B
-http://77.239.125.42:8070/@Dimonovich1982_planbhd/index.m3u8
-
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+http://158.101.211.157:2020/channel/5752faee/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
 http://185.50.148.2:7703/TV1000/index.m3u8
@@ -1272,9 +1266,6 @@ http://178.124.152.238:8088/cinema
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Кино и сериалы", Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Кино и сериалы", Viasat Kino Comedy HD
-http://213.226.137.140:81/tl/l1243/video.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 1
 http://178.57.121.38:8080/amedia/index.m3u8?token=test
 
@@ -1282,7 +1273,7 @@ http://178.57.121.38:8080/amedia/index.m3u8?token=test
 http://185.50.148.2:7707/A2/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
-http://213.226.137.140:81/tl/l90/index.m3u8
+http://stream01.vnet.am/Nauka/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit HD
 http://130.193.73.10:8937/play/a02o
@@ -1294,10 +1285,10 @@ http://185.50.148.2:7707/AmediaPremium/index.m3u8
 http://195.18.23.20:8000/play/3/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",.black
-http://31.47.199.45:1401/black/index.m3u8
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",.red
-http://31.47.199.45:1401/red/index.m3u8
+http://178.124.152.238:8088/sony
 
 #EXTINF:-1 group-title="Кино и сериалы",.sci-fi
 http://185.50.148.2:7703/Sony_Sci-Fi/index.m3u8
@@ -1307,9 +1298,6 @@ http://185.50.148.2:7703/Detskiy/index.m3u8
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино и сериалы", TV21
 http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
-
-#EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы", 312 Кино
-http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air
 http://77.239.125.42:8070/@Dimonovich1982_startairhd/index.m3u8
