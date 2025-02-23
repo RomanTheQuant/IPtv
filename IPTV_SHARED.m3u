@@ -291,9 +291,6 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Спортивные",Swerve Sports
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Спортивные", Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
-
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 
@@ -1201,44 +1198,17 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные", Наша Сибирь HD
 http://185.23.80.29:8080/NashaSibir/index.m3u8?token=test
 
-#EXTINF:-1 group-title="Кино и сериалы",VIJU+ PREMIERE HD
-http://158.101.211.157:2020/channel/77f0cb2d/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP PREMIERE HD
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
-
-#EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
-http://158.101.211.157:2020/channel/n70153fcf/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы", VIJU+ COMEDY HD
-http://158.101.211.157:2020/channel/n28e30f73/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIP COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы",VIJU+ SERIAL HD
-http://158.101.211.157:2020/channel/1bba7b52/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
-
-#EXTINF:-1 tvg-id="4k-ruskino" group-title="Кино и сериалы",4К Русское кино
-http://158.101.211.157:2020/channel/30e32928/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 tvg-id="strashnoe-hd" group-title="Кино и сериалы",Страшное HD
-http://158.101.211.157:2020/channel/42c15d29/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 tvg-id="4ever-cinema" group-title="Кино и сериалы",4ever Cinema HD
-http://158.101.211.157:2020/channel/n1660f666/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 tvg-id="4ever-drama" group-title="Кино и сериалы",4ever Drama HD
-http://158.101.211.157:2020/channel/4e840e66/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-
-#EXTINF:-1 tvg-id="4ever-theater" group-title="Кино и сериалы",4ever Theater HD
-http://158.101.211.157:2020/channel/n7f5647c4/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
@@ -1261,19 +1231,19 @@ https://stream-msk-19.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
-http://87.99.87.203:2007/channel/72281e2a/index.m3u8?q=66a6423f297e15732552f053875b2722
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
 http://185.50.148.2:7703/TV1000/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000 HD
-http://87.99.87.203:2007/channel/n32f03c08/index.m3u8?q=66a6423f297e15732552f053875b2722
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action HD
-http://87.99.87.203:2007/channel/1c2400aa/index.m3u8?q=66a6423f297e15732552f053875b2722
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 
 #EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
 http://158.101.211.157:2020/channel/n60cfbb4/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
@@ -1286,9 +1256,6 @@ http://178.124.152.238:8088/cinema
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Кино и сериалы", Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv1000-cee" group-title="Кино и сериалы", Viasat Kino HD
-http://158.101.211.157:2020/channel/811b8d2/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 1
 http://178.57.121.38:8080/amedia/index.m3u8?token=test
