@@ -938,7 +938,7 @@ http://158.101.211.157:2020/channel/n515934c8/index.m3u8?q=2dc8bf12a0c121ff160ed
 http://178.219.128.68:64889/HGTVHD
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+http://87.99.87.203:2007/channel/4d6b2267/index.m3u8?q=66a6423f297e15732552f053875b2722
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
@@ -977,10 +977,10 @@ https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 http://stream01.vnet.am/TLC/mono.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC HD
-http://77.239.125.42:8070/discovry_tlc/index.m3u8
+http://87.99.87.203:2007/channel/n167a21d0/index.m3u8?q=66a6423f297e15732552f053875b2722
 
-#EXTINF:-1 tvg-id="tlc-pl" group-title="Познавательные", TLC HD [PL]
-http://178.219.128.68:64888/TLC
+#EXTINF:-1 tvg-id="tlc-pl" group-title="Познавательные", TLC HD [EN]
+http://87.99.87.203:2007/channel/n782b0020/index.m3u8?q=66a6423f297e15732552f053875b2722
 
 #EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
@@ -1016,7 +1016,7 @@ http://185.23.80.29:8080/Draiv/index.m3u8?token=test
 http://185.23.80.29:8080/AVTO24/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="Познавательные", Авто Плюс
-http://213.226.137.140:81/tl/l105/mpegts
+http://185.23.80.29:8080/AVTO24/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="texno-24" tvg-id="texno-24" group-title="Познавательные", Техно 24
 http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
@@ -1070,13 +1070,13 @@ http://185.23.80.29:8080/ZhivayaPriroda_HD/index.m3u8?token=test
 http://flu.ttk.mx:90/Psihologiya21/mono.m3u8?token=hs06e
 
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png" tvg-id="animal-planet",Animal Planet HD
-http://213.226.137.140:81/tl/l13/index.m3u8
+http://158.101.211.157:2020/channel/1251c57d/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 
 #EXTINF:-1 tvg-id="big-planet" group-title="Познавательные", Big Planet
 http://185.50.148.2:7703/BigPlanet/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные", 365 ДНЕЙ
-http://213.226.137.140:81/tl/l413/mpegts
+http://fs2.persik.by/365dney/index.m3u8
 
 #EXTINF:-1 tvg-id="kto-est-kto" group-title="Познавательные",Кто есть кто
 http://31.210.208.171:8080/ktoestkto/index.m3u8?token=+W2MSER
@@ -1121,7 +1121,7 @@ http://185.23.80.29:8080/Dikaya_Ohota/index.m3u8?token=test
 http://185.23.80.29:8080/Dikaya_Rybalka/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
-http://77.239.125.42:8070/@Dimonovich1982_chohotairybalks/index.m3u8
+http://87.99.87.203:2007/channel/6fee59f9/index.m3u8?q=66a6423f297e15732552f053875b2722
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка SD
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
@@ -1153,17 +1153,14 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id926_MSKSG-PVR-1--LapkiLive/04/plst.m
 #EXTINF:-1 group-title="Познавательные",Телепутешествия
 https://stream-msk-04.ott.tricolor.tv:443/dtv/id154_MSKSG-PVR-1--Telepyt/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
 
-#EXTINF:-1 tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
-http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAzODY3ODAsImlhdCI6MTc0MDMwMDM4MCwiY2lkIjo2LCJ1aWQiOjg5NjEzNDE4OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.Obmgb1jvAwdNfR2Zhq_l5wvYd-tcd21lMM_XRsGil-A&offset=3
-
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Познавательные", Travel+Adventure
 https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
 
 #EXTINF:-1 tvg-id="hd-life" group-title="Познавательные",HD Life
-http://213.226.137.140:81/tl/l305/index.m3u8
+http://94.230.128.105:8080/HDLife/index.m3u8
 
 #EXTINF:-1 tvg-id="zoopark" group-title="Познавательные",ZooПарк
-https://flussonic.salomtv.uz/ZooPark/video.m3u8
+http://s1.merlive.am/Zoopark/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Живая Планета
 https://stream-msk-05.ott.tricolor.tv:443/dtv/id267_MSKSG-PVR-1--Zhivaya_Planeta/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
