@@ -5540,3 +5540,6 @@ http://holdmeforever.online:8030/memfs/8f64bd5c-c5aa-445c-8658-4dc18fd10215.m3u8
 
 #EXTINF:-1 group-title="Познавательные", TEST Kinoteatr 2
 http://holdmeforever.online:8030/memfs/aef8ed11-6301-4da3-b092-b8817f296a8d.m3u8
+
+#EXTINF:-1 group-title="Познавательные", TEST CRYPTO TV NO LOGO
+http://holdmeforever.online:8787/1/live/stream.m3u8
