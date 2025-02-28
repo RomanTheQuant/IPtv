@@ -60,7 +60,7 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst
 #EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", НТВ-Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 
-#EXTINF:-1 tvg-id=ntv-belarus" group-title="Эфирные", НТВ Беларусь HD
+#EXTINF:-1 tvg-id="ntv-belarus" group-title="Эфирные", НТВ Беларусь HD
 http://93.189.224.246:52900/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
@@ -413,7 +413,7 @@ http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 http://87.99.87.203:2020/channel/nc5adbf8/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-https://tv.movielab.pro/146/video.m3u8?token=b20443e4ae809ee20068d812728f8286cb738de4-8c7082bb03eb6a528fa98b89f6b493e4-1740815745-1740729345
+https://tv.movielab.pro/250/video.m3u8?token=5b4140c9273c8c35bad25e9cc5beec170c53915c-162f15606b24c72d02160b920805ee59-1740815745-1740729345
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч Футбол 1 HD
 http://87.99.87.203:2020/channel/42abea85/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
