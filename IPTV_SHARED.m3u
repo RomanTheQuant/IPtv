@@ -924,7 +924,7 @@ http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD [EN]
 https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=AWEca1v8U56UG_rqvsi64w&e=1740863008&scheme=https
 
-#EXTINF:-1 tvg-id="hgtv-pl" group-title="Познавательные", HGTV HD
+#EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
 http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM2Ojg4ODcvODM1NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYTk1MjFjYjMiLCJwIjoiYTk1MjFjYjM3OWEzMTRjZiIsImMiOiIyNzQiLCJ0IjoiZDZiYjgzZDBiMzYzYjhhMGFkNGUxMDQ5MWYzNGI3MGQiLCJkIjoiMzQwMTY2IiwiciI6IjM1MjAzOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODM1NS9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
