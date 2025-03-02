@@ -1968,6 +1968,157 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/p
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Asia
+http://cdn3.stream4k.ru/asia_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Galaxy Films
+http://cdn3.stream4k.ru/GalaxyFilms_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K HBO series
+http://cdn2.stream4k.ru/NBO_series_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Kинодети CССР
+http://cdn4.stream4k.ru/kinoids_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Netflix
+http://cdn1.stream4k.ru/Netflix_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K КиноСССР
+http://cdn4.stream4k.ru/made_in_the_USSR_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K КиноНовинки
+http://cdn1.stream4k.ru/MovieNews/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K КиноФраншизы
+http://movie_90s_4k.stream4k.ru/movie_90s_4k/video.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Семейный
+http://family_4k.stream4k.ru/family_4k/video.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K КиноШарм
+http://cdn2.stream4k.ru/kinosharm_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Комедия
+http://cdn3.stream4k.ru/comedy/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Комедия СССР 1
+http://cdn4.stream4k.ru/comedy_ssr_1_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Комедия СССР 2
+http://cdn4.stream4k.ru/comedy_ssr_2_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Приключения
+http://cdn1.stream4k.ru/adventures_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/8944.png" group-title="Кинозалы Clarity4k",Clarity4K Русские сериалы
+http://military_4k.stream4k.ru/military_4k/video.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Семейный
+http://cdn3.stream4k.ru/family_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Ужасы
+http://cdn1.stream4k.ru/horrors/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Фантастика
+http://cdn3.stream4k.ru/fantastic/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Фэнтези
+http://cdn5.stream4k.ru/fantasy_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Боевик
+http://cdn3.stream4k.ru/combat_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Боевик VHS
+http://cdn2.stream4k.ru/boevik_vhs_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Драмы
+http://cdn3.stream4k.ru/dramas_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Anime
+http://anime.stream4k.ru/anime/video.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K АвтоМастер
+http://cdn1.stream4k.ru/AutoMaster_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K BluesString
+http://cdn5.stream4k.ru/BluesString_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Bollywood music
+http://cdn1.stream4k.ru/bollywood_music_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K EUROVISION
+http://cdn2.stream4k.ru/Francemusic_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/9013.png" group-title="Кинозалы Clarity4k",CLARITY4K ROCK AND METAL HUB
+http://cdn1.stream4k.ru/heavy_metal_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/8954.png" group-title="Кинозалы Clarity4k",CLARITY4K KOREAN MUSIC
+http://cdn1.stream4k.ru/korean_music_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/8954.png" group-title="Кинозалы Clarity4k",Clarity4K Latin music
+http://cdn3.stream4k.ru/Latinmusic_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/8954.png" group-title="Кинозалы Clarity4k",CLARITY4K REMASTERWAVE
+http://cdn3.stream4k.ru/RemasterWave_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/8954.png" group-title="Кинозалы Clarity4k",CLARITY4K REMASTERED MUSIC
+http://cdn3.stream4k.ru/Remastered/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K RUSSIAN MUSIC
+http://cdn1.stream4k.ru/russian_music_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K UKRAINIAN MUSIC
+http://cdn1.stream4k.ru/music_ukraine/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Travel blog
+http://cdn4.stream4k.ru/travel_dok_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K UrbanBlack
+http://cdn4.stream4k.ru/UrbanBlack_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Walt Disney
+http://cdn2.stream4k.ru/Walt_Disney_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K WORLD MUSIC
+http://cdn2.stream4k.ru/music_1_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K ГОРОДА
+http://cdn3.stream4k.ru/relax_fireplace_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Запал
+http://cdn2.stream4k.ru/zapal_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Звериный мир
+http://cdn2.stream4k.ru/animal_world_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Космомир
+http://cdn3.stream4k.ru/cosmosmir_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity 4K Мода XXX
+http://cdn3.stream4k.ru/candid_fashion_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Мультляндия
+http://cdn3.stream4k.ru/childrens_cartoons_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",CLARITY4K DEEP HOUSE
+http://cdn3.stream4k.ru/concert_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4k DeepMe
+http://cdn2.stream4k.ru/DeepMe_4K/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Gamefilm
+http://cdn4.stream4k.ru/gamefilm_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4k UFO
+http://cdn1.stream4k.ru/ufo_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4k Вселенная
+http://cdn4.stream4k.ru/Vselenaya_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
+#EXTINF:-1 group-title="Кинозалы Clarity4k",Clarity4K Единоборства
+http://cdn1.stream4k.ru/martial_arts_4k/index.m3u8?token=c3RhcmNpbmVtYXhfcnV8fGMzUmhjbU5wYm1WdFlYaGZjblU9
+
 #EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Лесник
 http://cdn.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
 
