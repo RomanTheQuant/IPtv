@@ -213,7 +213,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://45.159.74.14:80/Channel_119/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/euronews.png" tvg-id="euronews" group-title="Новости",Евроновости
-http://ost.ru-tv.site/uPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM1Ojg4ODcvODA4NC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYTk1MjFjYjMiLCJwIjoiYTk1MjFjYjM3OWEzMTRjZiIsImMiOiI4MiIsInQiOiIyMjY4OTgzNzU5YWExYmNjZDkyZGRhNjgzNDc3MzJlNCIsImQiOiIzNDAxNjYiLCJyIjoiMzUyMDM4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NC4yNi4yMDMuMjU6ODEvODA4NC9pbmRleC5tM3U4P3Rva2V/index.m3u8
+http://ost.ru-tv.site/uPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM1Ojg4ODcvODA4NC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYTk1MjFjYjMiLCJwIjoiYTk1MjFjYjM3OWEzMTRjZiIsImMiOiI4MiIsInQiOiJmMWI4M2Q3ZmIzMjRjYzdhNTY5M2FmNTIzNjk5ZTk1YSIsImQiOiIzNDAxNjYiLCJyIjoiMzUyMDM4IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzE5NC4yNi4yMDMuMjU6ODEvODA4NC9pbmRleC5tM3U4P3Rva2V/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/euronews.png" tvg-id="euronews" group-title="Новости",EuroNews
 http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
@@ -456,13 +456,13 @@ http://185.23.80.29:8080/Football/index.m3u8?token=test
 https://tv.movielab.pro/9984/video.m3u8?token=993072d4a48453829ea8124e137486a7e2b1e455-180a202041efc9ca2fa3cf4b0370f22a-1741334454-1741248054
 
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные", КХЛ
-http://178.57.121.38:8080/khl/index.m3u8?token=test
+http://185.23.80.29:8080/KHL/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="kxl" group-title="Спортивные", KHL
 http://45.159.74.14:80/Channel_113/manifest.m3u8
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ HD
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+http://fs2.persik.by/KHL/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime
 https://tv.movielab.pro/177/video.m3u8?token=18d654e6378da1c3986041b23b249a5c9d276e6b-e0f5e5d7341bb55bf169979001c5878e-1741334454-1741248054
@@ -867,7 +867,7 @@ http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8?token=eyJhbGciOiJ
 http://130.193.73.10:8937/play/a01l
 
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra
-http://178.57.121.38:8080/natgeo/index.m3u8?token=test
+http://109.200.130.123:7537/play/a02i
 
 #EXTINF:-1 tvg-id="terra-ru" group-title="Познавательные",Terra HD
 http://130.193.73.10:8937/play/a01g
@@ -924,7 +924,7 @@ http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
-http://ost.ru-tv.site/uPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM2Ojg4ODcvODM1NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYTk1MjFjYjMiLCJwIjoiYTk1MjFjYjM3OWEzMTRjZiIsImMiOiIyNzQiLCJ0IjoiMjI2ODk4Mzc1OWFhMWJjY2Q5MmRkYTY4MzQ3NzMyZTQiLCJkIjoiMzQwMTY2IiwiciI6IjM1MjAzOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NC4yNi4yMDMuMjU6ODEvODM1NS9pbmRleC5tM3U4P3Rva2V/index.m3u8
+http://ost.ru-tv.site/uPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM2Ojg4ODcvODM1NS90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiYTk1MjFjYjMiLCJwIjoiYTk1MjFjYjM3OWEzMTRjZiIsImMiOiIyNzQiLCJ0IjoiZjFiODNkN2ZiMzI0Y2M3YTU2OTNhZjUyMzY5OWU5NWEiLCJkIjoiMzQwMTY2IiwiciI6IjM1MjAzOCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NC4yNi4yMDMuMjU6ODEvODM1NS9pbmRleC5tM3U4P3Rva2V/index.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://45.159.74.14:80/Channel_123/manifest.m3u8
@@ -1193,8 +1193,8 @@ http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciO
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIP COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzMzM1ODEsImlhdCI6MTc0MTI0NzE4MSwiY2lkIjo2LCJ1aWQiOjg5ODg2OTEwMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.NzGMFuOfgPo9opt6O7Skg-0jS-lMueYjjckxR8Z1tFE&offset=3
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP SERIAL HD
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzMzM1ODEsImlhdCI6MTc0MTI0NzE4MSwiY2lkIjo2LCJ1aWQiOjg5ODg2OTEwMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.NzGMFuOfgPo9opt6O7Skg-0jS-lMueYjjckxR8Z1tFE&offset=3
+#EXTINF:-1 group-title="Кино и сериалы",VIP SERIAL HD
+http://77.239.125.42:8070/@Dimonovich1982_viasatgolfhd/index.m3u8
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино
 http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
@@ -1244,7 +1244,10 @@ http://178.124.152.238:8088/cinema
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 1
-http://178.57.121.38:8080/amedia/index.m3u8?token=test
+http://45.11.139.43:8555/amedia/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 1 HD
+http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzMzM1ODEsImlhdCI6MTc0MTI0NzE4MSwiY2lkIjo2LCJ1aWQiOjg5ODg2OTEwMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.NzGMFuOfgPo9opt6O7Skg-0jS-lMueYjjckxR8Z1tFE&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia 2
 http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
@@ -2458,7 +2461,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTYxMzUxMCwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQxMDA4NzEwLCJzZXNzaW9uX2lkIjoiNjc3ZThiMjcwMDlmNjdhYTFkMmI5ZGRhNjRjODExYzEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uMfVA3B75Tbst0XY1JyF8WI2IUKgE0DMgjPVvIJykpk&curPos=03032025121452&sid=5cb4f3e5-b67f-49db-8802-fb85389d2061
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Музыка", Ля-минор
-http://178.57.121.38:8080/laminor/index.m3u8?token=test
+http://fs2.persik.by/LaMinor/index.m3u8
 
 #EXTINF:-1 tvg-id="zhar-ptica" group-title="Музыка",Жар-Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
