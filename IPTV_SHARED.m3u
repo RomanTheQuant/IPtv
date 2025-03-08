@@ -332,7 +332,7 @@ http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+http://ott.server-iptv.live/200/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD CEE
 https://tv.movielab.pro/145/video.m3u8?token=181f82f47a4dc4634dc63a473ec450b6e8aa6cbb-d7d98ec2df95c651a3ee552c0d07e219-1741463782-1741377382
@@ -341,7 +341,7 @@ https://tv.movielab.pro/145/video.m3u8?token=181f82f47a4dc4634dc63a473ec450b6e8a
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://nodns1.top:8080/10170550054028/51739379482781/51962
+http://ott.server-iptv.live/201/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
@@ -410,8 +410,14 @@ https://tv.movielab.pro/329/video.m3u8?token=dbf3399db8149a5db0aaa9d56525a9a904a
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
 https://tv.movielab.pro/942/video.m3u8?token=5a61eeebffcf5040d42318f83b326938ba343bba-fc1810a59d307c3e5f6c7a1daf5109de-1741463782-1741377382
 
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Setanta Sport 1 HD
+http://ott.server-iptv.live/220/video.m3u8?token=S793FB1732
+
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
 https://tv.movielab.pro/943/video.m3u8?token=ab028b432eb8cfd9b0b7947db4193f50ef68f870-51f95f48d483ae2b948aad2d4f4fb2e5-1741463782-1741377382
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Setanta Sport 2 HD
+http://ott.server-iptv.live/221/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные", Setanta Казахстан
 https://tv.movielab.pro/5094/video.m3u8?token=e2a6c5b210f11308b578db9e72d52a1ae7693b96-bdf7322e53456d8278a1c352f0e5b4fa-1741463782-1741377382
@@ -495,22 +501,22 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="Спортивные", Sky Sports F1 HD
-http://cord-cutter.net:8080/V6aakC/773662/35244
+http://1tv41.icu:8080/35892104/18313997/53704
 
 #EXTINF:-1 group-title="Спортивные", Sky Sports Golf HD
-http://cord-cutter.net:8080/V6aakC/773662/35240
+http://1tv41.icu:8080/35892104/18313997/35240
 
 #EXTINF:-1 group-title="Спортивные",Sky Sports Main Event HD
-http://cord-cutter.net:8080/V6aakC/773662/35243
+http://1tv41.icu:8080/35892104/18313997/35243
 
 #EXTINF:-1 group-title="Спортивные",Sky Sports Mix HD
-http://cord-cutter.net:8080/V6aakC/773662/53706
+http://1tv41.icu:8080/35892104/18313997/53706
 
 #EXTINF:-1 group-title="Спортивные",Sky Sports Cricket HD
-http://cord-cutter.net:8080/V6aakC/773662/45940
+http://1tv41.icu:8080/35892104/18313997/45940
 
 #EXTINF:-1 group-title="Спортивные",Sky Sports News HD
-http://cord-cutter.net:8080/V6aakC/773662/35241
+http://1tv41.icu:8080/35892104/18313997/35241
 
 #EXTINF:-1 tvg-id="supertennis" tvg-logo="https://epg.iptvx.one/picons/supertennis.png" group-title="Спортивные",SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
@@ -890,8 +896,8 @@ http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild SD
 https://tv.movielab.pro/162/video.m3u8?token=d800e12fe2ce059515ae74ca4a503b0f0c9b399c-68164f104c084a9aa7d925bce0c7a841-1741463782-1741377382
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild СНГ HD
-http://78.130.250.2:8023/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
+http://ott.server-iptv.live/403/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
@@ -901,6 +907,9 @@ https://tv.movielab.pro/143/video.m3u8?token=c6f4ddc17e5ffcef8ebce40a66c19708c50
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic CEE
 http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
+http://ott.server-iptv.live/402/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
 http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
@@ -922,6 +931,9 @@ http://45.159.74.14:80/Channel_123/manifest.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
+
+#EXTINF:-1 tvg-id="h2" group-title="Познавательные", History2 HD
+http://ott.server-iptv.live/415/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
 http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE1MDgxODAsImlhdCI6MTc0MTQyMTc4MCwiY2lkIjo2LCJ1aWQiOjg5OTM4NDA5NywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.qGk8l_1KcTltsObE2AIVEfBZPUL4g-a2_RYiY43a9LY&offset=3
@@ -1172,11 +1184,20 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 tvg-id="nasha-sibir" group-title="Познавательные", Наша Сибирь HD
 http://185.23.80.29:8080/NashaSibir/index.m3u8?token=test
 
+#EXTINF:-1 group-title="Кино и сериалы",VIJU+ PREMIERE HD
+http://ott.server-iptv.live/605/video.m3u8?token=S793FB1732
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP PREMIERE HD
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE1MDgxODAsImlhdCI6MTc0MTQyMTc4MCwiY2lkIjo2LCJ1aWQiOjg5OTM4NDA5NywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.qGk8l_1KcTltsObE2AIVEfBZPUL4g-a2_RYiY43a9LY&offset=3
 
+#EXTINF:-1 group-title="Кино и сериалы",VIJU+ MEGAHIT HD
+http://ott.server-iptv.live/606/video.m3u8?token=S793FB1732
+
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",VIP MEGAHIT HD
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE1MDgxODAsImlhdCI6MTc0MTQyMTc4MCwiY2lkIjo2LCJ1aWQiOjg5OTM4NDA5NywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.qGk8l_1KcTltsObE2AIVEfBZPUL4g-a2_RYiY43a9LY&offset=3
+
+#EXTINF:-1 group-title="Кино и сериалы",VIJU+ COMEDY HD
+http://ott.server-iptv.live/607/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIP COMEDY HD
 http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE1MDgxODAsImlhdCI6MTc0MTQyMTc4MCwiY2lkIjo2LCJ1aWQiOjg5OTM4NDA5NywicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.qGk8l_1KcTltsObE2AIVEfBZPUL4g-a2_RYiY43a9LY&offset=3
@@ -1224,6 +1245,9 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Xk27esMU8fEcIbNW60MdJQ&e=1741879756&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
+#EXTINF:-1 tvg-id="kinowood" group-title="Кино и сериалы",Kinowood HD
+http://ott.server-iptv.live/1610/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="cinema" group-title="Кино и сериалы",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
