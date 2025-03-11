@@ -5455,8 +5455,8 @@ http://holdmeforever.online:8787/1/live/stream.m3u8
 #EXTINF:-1 group-title="Strapman TV", ShortsTV
 http://holdmeforever.online:8787/3/live/stream.m3u8
 
-#EXTINF:-1 group-title="Strapman TV", Стивен Кинг
-http://holdmeforever.online:8787/4/live/stream.m3u8
+#EXTINF:-1 group-title="Strapman TV", Torrent Test
+http://holdmeforever.online:8090/playlistall/all.m3u
 
 #EXTINF:-1 group-title="Strapman TV", X-Files 
 http://holdmeforever.online:8787/2/live/stream.m3u8
