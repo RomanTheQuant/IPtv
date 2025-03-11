@@ -472,6 +472,9 @@ http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 tvg-id="mir-basketbola" group-title="Спортивные", Мир баскетбола
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE3NjczODAsImlhdCI6MTc0MTY4MDk4MCwiY2lkIjo2LCJ1aWQiOjkwMDI5NTgzMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.vqLxBCz86wA8MUvNT4O5Lv1kI8Rmz2WosAIyDwAdFoM&offset=3
 
+#EXTINF:-1 tvg-id="digisport1" group-title="Спортивные", DIGI Sport 1
+https://top2new.koskoros.ru/top2/premium400/mono.m3u8
+
 #EXTINF:-1 tvg-id="extreme-sports" group-title="Спортивные", Extreme sports
 http://109.200.130.123:7537/play/a02p
 
