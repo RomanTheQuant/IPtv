@@ -370,6 +370,9 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
 https://tv.movielab.pro/146/video.m3u8?token=4f6e2e9cdf7277200f54e534d1166d546880c7c2-e1cec54346783d2a33f4e70c2290b5e8-1741766190-1741679790
 
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
+http://87.120.142.11:18000/Match!
+
 #EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч! Боец
 http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE3NjczODAsImlhdCI6MTc0MTY4MDk4MCwiY2lkIjo2LCJ1aWQiOjkwMDI5NTgzMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.vqLxBCz86wA8MUvNT4O5Lv1kI8Rmz2WosAIyDwAdFoM&offset=3
 
@@ -1979,63 +1982,6 @@ http://cdn.admuspeh.my/8795/index.m3u8?token=qwFZqkLzC2pK6whe
 
 #EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Relax 4K
 http://cdn.admuspeh.my/8822/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",Семейное HD
-http://fs2.persik.by/Semejnoe10/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Ван Дамм
-http://fs2.persik.by/VanDam/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Детективное кино
-http://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Европейское кино
-http://fs2.persik.by/EvropejskoeKino15/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Best clips
-http://fs2.persik.by/Best_clips1/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Concerts
-http://fs2.persik.by/Concerts4/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV DJ
-http://fs2.persik.by/DJ5/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Dance
-http://fs2.persik.by/Dance3/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",Hits HD
-http://fs2.persik.by/Hits5/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV POP Mozgi Entertainment
-http://fs2.persik.by/Pop4/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV POP-ROCK
-http://fs2.persik.by/Pop_Rock3/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Relax
-http://fs2.persik.by/Relax4/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Рок концерты
-http://fs2.persik.by/Rock_Kocerty2/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Русский рок
-http://fs2.persik.by/Russkij_Rock3/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",Рэп HD
-http://fs2.persik.by/Rap2/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",Synthwave HD
-http://fs2.persik.by/Synthwave/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV Сундучок Историй
-http://fs2.persik.by/Sunduchok4/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" group-title="Кинозалы Персик ТВ",PersikTV ТЕХНО
-http://fs2.persik.by/Techno3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель
 #EXTVLCOPT:http-user-agent=SmartTV
