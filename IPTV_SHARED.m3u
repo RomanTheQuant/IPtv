@@ -1903,6 +1903,126 @@ https://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.
 #EXTINF:-1 tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR Serial
+http://olsib.stream4k.ru:2095/USSR_serial/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Ancient Rome
+http://olsib.stream4k.ru:2095/Ancient_Rome/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Black Comedy
+http://olsib.stream4k.ru:2095/Black_Comedy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib British cinema FHD 
+http://olsib.stream4k.ru:2095/British_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Catastrophe 
+http://olsib.stream4k.ru:2095/Catastrophe/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Comedy
+http://olsib.stream4k.ru:2095/Comedy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Crime 
+http://olsib.stream4k.ru:2095/Crime/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Disco-80 FHD 
+http://olsib.stream4k.ru:2095/AV1/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Documentary
+http://olsib.stream4k.ru:2095/Documentary/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Fantasy 
+http://olsib.stream4k.ru:2095/Fantasy/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Galicia 
+http://olsib.stream4k.ru:2095/Galicia/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Germany cinema FHD 
+http://olsib.stream4k.ru:2095/Germany_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib India cinema FHD 
+http://olsib.stream4k.ru:2095/India_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Italian cinema FHD
+http://olsib.stream4k.ru:2095/Italian_cinema/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Kids
+http://olsib.stream4k.ru:2095/Kids/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Knives
+http://olsib.stream4k.ru:2095/Knives/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Love story 
+http://olsib.stream4k.ru:2095/Love_story/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib",Olsib Multfilm 
+http://olsib.stream4k.ru:2095/Multfilm/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Pro100 Kitchen
+http://olsib.stream4k.ru:2095/Food/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib RITSA
+http://olsib.stream4k.ru:2095/OLSIB_RITSA/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib RU.Music
+http://olsib.stream4k.ru:2095/RU.Music/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib Radio
+http://olsib.stream4k.ru:2095/Radio/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib STB
+http://olsib.stream4k.ru:2095/STB/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Science-fiction
+http://olsib.stream4k.ru:2095/Science-fiction/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Show
+http://olsib.stream4k.ru:2095/Show/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib The Best
+http://olsib.stream4k.ru:2095/The_Best/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib The newest
+http://olsib.stream4k.ru:2095/The_newest/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib The old best
+http://olsib.stream4k.ru:2095/The_old_best/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Time Travel
+http://olsib.stream4k.ru:2095/Time_loop/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 30
+http://olsib.stream4k.ru:2095/USSR_30/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 40
+http://olsib.stream4k.ru:2095/USSR_40/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 50
+http://olsib.stream4k.ru:2095/USSR_50/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 60
+http://olsib.stream4k.ru:2095/USSR_60/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 70
+http://olsib.stream4k.ru:2095/USSR_70/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 80
+http://olsib.stream4k.ru:2095/USSR_80/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib USSR 90
+http://olsib.stream4k.ru:2095/USSR_90/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib VHS
+http://olsib.stream4k.ru:2095/vhs/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib Walt Disney
+http://olsib.stream4k.ru:2095/Wal_Disney/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 group-title="Кинозалы Olsib", Olsib War FHD
+http://olsib.stream4k.ru:2095/War/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib Wrestling
+http://olsib.stream4k.ru:2095/Wrestling/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
+
 #EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Лесник
 http://cdn.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
 
