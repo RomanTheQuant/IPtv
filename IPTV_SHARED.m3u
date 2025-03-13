@@ -2195,7 +2195,7 @@ http://dmi3y-tv.ru/hls/CH_CARTOONITOHD.m3u8
 http://45.159.74.14:80/Channel_120/manifest.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network HD
-http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+http://stream01.vnet.am/Kinosemya/mono.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
 http://stream01.vnet.am/Channel_114/mono.m3u8
