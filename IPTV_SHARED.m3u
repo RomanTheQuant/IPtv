@@ -1679,6 +1679,9 @@ https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=e9
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/2024-11-28/13/a5/13a5164fd40f43513df172da2ec6dbfd.jpg" group-title="Кинозалы", Твой 2007
 https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=s8gq4VtafLhFu-RsYUzG-A&e=1745917431&scheme=https
 
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.pinimg.com/originals/46/ff/af/46ffaf8ae47559a1dc73d0572f482475.jpg" group-title="Кинозалы", Monster Jam TV
+https://bl.rutube.ru/livestream/fd9203319665cd24b42dba17d541fc31/index.m3u8?s=1vCj80dcRnqf5Nsu7CcXJw&e=1745917482&scheme=https
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png" group-title="Кинозалы", ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 
