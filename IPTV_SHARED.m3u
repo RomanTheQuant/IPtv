@@ -325,9 +325,6 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
 http://109.70.186.70:9090/udp/239.185.1.15:1234
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
-
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
 http://185.189.225.157/EuroSport2/index.m3u8
 
@@ -1233,7 +1230,7 @@ http://109.248.236.51/viju_tv1000_action/mono.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=53bwhDQJyVvcrXeo08u_2A&e=1747918471&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
-http://de.online24.pm/play/232/AACDF424F824C27/video.m3u8
+https://autopilot.catcast.tv/content/46209/index.m3u8
 
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=5JMP0J2WICmQxHDFALd3bA&e=1747918530&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -4340,29 +4337,14 @@ http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGc
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Gulli Girl
 http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTMzODAsImlhdCI6MTc0NzAyNjk4MCwiY2lkIjo2LCJ1aWQiOjkxNTc3OTg3NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.-41DNc2byZI0F1Wl3jYp-X1edyQFEXmgn_smp_xcfK0&offset=3
 
-#EXTINF:-1 tvg-id="c-cartoon" group-title="Детские", C-Cartoon
-http://tinyurl.com/%74%76%7A%61%74%61%6B22/CITRUS-cartoon/mpegts?token=freeportal&token=fd377e03492ea191697a7385b1fed03a
-
 #EXTINF:-1 tvg-id="boomerang" group-title="Детские", Cartoonito
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B22/cartoonnetwork/video.m3u8?token=freeportal&token=933ece22f21039a2d7add4e367496e9d
-
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
-http://tinyurl.com/%74%76%7A%61%74%61%6B22/Nickelodeon_HD_CEE/video.m3u8?token=freeportal&token=0d4b7d5899f61c76032f7e0d5a6d2be3
-
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
 https://tv.movielab.pro/174/video.m3u8?token=2444579d397ab8fd1b3a339f4cef426638dfbf09-857e0479240eb03a9c7e1c885757d44b-1747075976-1746989576
-
-#EXTINF:-1 tvg-id="nick-jr" group-title="Детские", Nick Jr
-http://de.online24.pm/play/240/AACDF424F824C27/video.m3u8
-
-#EXTINF:-1 tvg-id="nicktoons" group-title="Детские", Nicktoons
-http://de.online24.pm/play/515/AACDF424F824C27/video.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"  group-title="Детские", TiJi
 http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTMzODAsImlhdCI6MTc0NzAyNjk4MCwiY2lkIjo2LCJ1aWQiOjkxNTc3OTg3NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.-41DNc2byZI0F1Wl3jYp-X1edyQFEXmgn_smp_xcfK0&offset=3
@@ -4380,7 +4362,7 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 http://109.200.130.123:7537/play/a024
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Рыжий
-http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTMzODAsImlhdCI6MTc0NzAyNjk4MCwiY2lkIjo2LCJ1aWQiOjkxNTc3OTg3NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.-41DNc2byZI0F1Wl3jYp-X1edyQFEXmgn_smp_xcfK0&offset=3
+http://hls.peers.tv/streaming/red/16/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTMzODAsImlhdCI6MTc0NzAyNjk4MCwiY2lkIjo2LCJ1aWQiOjkxNTc3OTg3NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.-41DNc2byZI0F1Wl3jYp-X1edyQFEXmgn_smp_xcfK0&offset=3
 
 #EXTINF:-1 tvg-id="Kinoshka KIDS HD" tvg-logo="http://i120.fastpic.org/big/2022/0721/bb/f4e7fda98f485cfbb9f62ab0757987bb.png" group-title="Детские", Kinoshka KIDS HD
 https://tv.movielab.pro/9993/video.m3u8?token=57e90007e88693fd0b825570a7832cd9d1264a74-ef4c33aa96255db8c77a7ac199848acc-1747075976-1746989576
