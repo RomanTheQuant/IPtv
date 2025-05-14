@@ -810,8 +810,9 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="perec-int" group-title="Развлекательные",Перец
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="animetv" group-title="Развлекательные", Anime TV
-http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDczMDk1ODAsImlhdCI6MTc0NzIyMzE4MCwiY2lkIjo2LCJ1aWQiOjkxNjQxNjM4NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XaeWcHcXX078yVjat9uk_NToHSgc9n3QDPttgukyFd8&offset=3
+#EXTINF:-1 tvg-id="animetv" group-title="Развлекательные", Anime TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/hxv36_63mdylafNpYyFTWw,1747256408/streaming/anime_tv/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="sumiko" group-title="Развлекательные", Sumiko
 #EXTVLCOPT:http-user-agent=SmartTV
