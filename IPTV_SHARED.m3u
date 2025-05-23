@@ -1202,9 +1202,6 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOi
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", VIJU+ SERIAL HD
 http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgwNzgxODAsImlhdCI6MTc0Nzk5MTc4MCwiY2lkIjo2LCJ1aWQiOjkxODUzNjk2MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.z1JqR9SqLWZWrIsJEuvsD9WZopmCIcQJTapyXXaImrs&offset=3
 
-#EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Кино и сериалы", Viasat Kino World
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Кино и сериалы",Феникс+Кино HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/XlBaUHydYszED1oS_M85_g,1748034009/streaming/fenixkino/324/1/tracks-v5a1/mono.m3u8
@@ -1277,14 +1274,14 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
-#EXTINF:-1 tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema
 http://hls.peers.tv/streaming/star_cinema_hd/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgwNzgxODAsImlhdCI6MTc0Nzk5MTc4MCwiY2lkIjo2LCJ1aWQiOjkxODUzNjk2MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.z1JqR9SqLWZWrIsJEuvsD9WZopmCIcQJTapyXXaImrs&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="star-family" group-title="Кино и сериалы", Star Family HD
 http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgwNzgxODAsImlhdCI6MTc0Nzk5MTc4MCwiY2lkIjo2LCJ1aWQiOjkxODUzNjk2MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.z1JqR9SqLWZWrIsJEuvsD9WZopmCIcQJTapyXXaImrs&offset=3
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы", Ретро ТВ
-http://194.158.218.123:8880/Retrotv/index.m3u8
+http://178.212.71.253:8000/play/90/index.m3u8
 
 #EXTINF:-1 tvg-id="vhs-ka" group-title="Кино и сериалы", VHS-ка HD
 http://158.46.103.142:81/udp/239.255.42.88:1234
@@ -1383,7 +1380,8 @@ http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m
 http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
 
 #EXTINF:-1 tvg-id="kinoliving" group-title="Кино и сериалы",KinoLiving HD
-http://109.200.130.123:7537/play/a02k
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/vIp5tTP0861N2vwyijC6LA,1748034008/streaming/kinoliving/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Кино и сериалы", Trash TV
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1407,11 +1405,14 @@ http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhb
 #EXTINF:-1 group-title="Кино и сериалы",Телекафе
 https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Индия
-http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgwNzgxODAsImlhdCI6MTc0Nzk5MTc4MCwiY2lkIjo2LCJ1aWQiOjkxODUzNjk2MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.z1JqR9SqLWZWrIsJEuvsD9WZopmCIcQJTapyXXaImrs&offset=3
+#EXTINF:-1 group-title="Кино и сериалы", Индия
+http://109.248.236.51/india/mono.m3u8
 
 #EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FOX
 http://45.143.108.110:2203/FOX
+
+#EXTINF:-1 tvg-id="foxlife" group-title="Кино и сериалы", Fox Life
+http://109.248.236.51/red/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="foxlife" group-title="Кино и сериалы", Fox Life HD
 http://188.237.47.212:6008
@@ -1498,7 +1499,8 @@ http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?
 http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgwNzgxODAsImlhdCI6MTc0Nzk5MTc4MCwiY2lkIjo2LCJ1aWQiOjkxODUzNjk2MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.z1JqR9SqLWZWrIsJEuvsD9WZopmCIcQJTapyXXaImrs&offset=3
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png" tvg-id="shot-tv" group-title="Кино и сериалы", Shot TV
-http://130.193.73.10:8937/play/a022
+#EXTVLCOPT:http-user-agent=SmartTV
+https://mhd128.iptv2022.com/p/eAXUc9g5AgqG32cyIcMJJw,1748034009/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Кино и сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1507,7 +1509,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://31.173.165.29:8000/play/a055/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood HD
-http://130.193.73.10:8937/play/a02k
+http://92.242.110.52:9835/udp/238.1.3.3:1234
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Кино и сериалы",Cinema
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
@@ -10050,11 +10052,89 @@ https://video1.tizam.cc/vk/Torn-Rus.mp4
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Кульминация Апокалипсиса
 https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
 
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Услуги Горничных
+https://video3.tizam.cc/films/soubrettes-services-trainees-2010.mp4
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Помощница по Хозяйству
+https://video3.tizam.cc/films/family-secrets-the-au-pair-hd.mp4
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Мой Первый Раз
+https://video3.tizam.cc/films/my-very-first-time-porn-rus.mp4
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Семейные грешники
+https://video3.tizam.cc/films/daddys-girl-vol-3.mp4
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Interracial Threesomes 4
+https://video1.tizam.cc/vk/InterracialThreesomes4.mp4
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://pic.rutubelist.ru/video/2d/87/2d87ffd826e10802520135f2034c40bb.png" group-title="Взрослые [ВХОД СТРОГО 18+]", Interracial Threesomes 7
+https://video1.tizam.cc/roliki/tizam80361.mp4
+
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s1600/miami-tv-logo-gif2_design.png" group-title="Взрослые [ВХОД СТРОГО 18+]",Miami TV
 http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" group-title="Взрослые [ВХОД СТРОГО 18+]",Eropuls DE 18+
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Russian
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",POV
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Latina
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",MILF
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 group-title="Strapman TV", КРИПТА TV
 http://holdmeforever.online:8787/1/live/stream.m3u8
 
