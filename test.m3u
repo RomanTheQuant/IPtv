@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXTINF:-1 group-title="Медиатека" type="playlist",Телефон доверия
+http://46.161.5.140:8090/stream/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%20%D0%B4%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D1%8F.m3u?link=745869bb933396e9635361baf08b43b3abb8124d&m3u&fn=file.m3u
+#EXTINF:-1 group-title="Медиатека" type="playlist",Зелёная миля
+http://46.161.5.140:8090/stream/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B8%D0%BB%D1%8F.m3u?link=97296ce7d28d774c1319a83575f51fd97fa263ab&m3u&fn=file.m3u
