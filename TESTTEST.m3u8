@@ -1,91 +1,91 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="KLI Cinema HD" tvg-id="KLI_Cinema_HD",KLI Cinema HD
-http://46.161.5.140:44444/KLI_Cinema_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Cinema_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Comedy HD" tvg-id="KLI_Comedy_HD",KLI Comedy HD
-http://46.161.5.140:44444/KLI_Comedy_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Comedy_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI HIT90 HD" tvg-id="KLI_HIT90_HD",KLI HIT90 HD
-http://46.161.5.140:44444/KLI_HIT90_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_HIT90_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI History HD" tvg-id="KLI_History_HD",KLI History HD
-http://46.161.5.140:44444/KLI_History_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_History_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Premium HD" tvg-id="KLI_Premium_HD",KLI Premium HD
-http://46.161.5.140:44444/KLI_Premium_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Premium_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Russian HD" tvg-id="KLI_Russian_HD",KLI Russian HD
-http://46.161.5.140:44444/KLI_Russian_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Russian_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Fantastic HD" tvg-id="KLI_Fantastic_HD",KLI Fantastic HD
-http://46.161.5.140:44444/KLI_Fantastic_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Fantastic_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI VHS HD" tvg-id="KLI_VHS_HD",KLI VHS HD
-http://46.161.5.140:44444/KLI_VHS_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_VHS_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Thriller HD" tvg-id="KLI_Thriller_HD",KLI Thriller HD
-http://46.161.5.140:44444/KLI_Thriller_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Thriller_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI USSR HD" tvg-id="KLI_USSR_HD",KLI USSR HD
-http://46.161.5.140:44444/KLI_USSR_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_USSR_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Family HD" tvg-id="KLI_Family_HD",KLI Family HD
-http://46.161.5.140:44444/KLI_Family_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Family_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Retro HD" tvg-id="KLI_Retro_HD",KLI Retro HD
-http://46.161.5.140:44444/KLI_Retro_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Retro_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Club HD" tvg-id="KLI_Club_HD",KLI Club HD
-http://46.161.5.140:44444/KLI_Club_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Club_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Kids HD" tvg-id="KLI_Kids_HD",KLI Kids HD
-http://46.161.5.140:44444/KLI_Kids_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РњСѓР»СЊС‚РёРєРё HD" tvg-id="KLI_Multiki_HD",KLI РњСѓР»СЊС‚РёРєРё HD
-http://46.161.5.140:44444/KLI_Multiki_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Kids_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Мультики HD" tvg-id="KLI_Multiki_HD",KLI Мультики HD
+http://46.161.5.140:44444/KLI_Multiki_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Concert HD" tvg-id="KLI_Concert_HD",KLI Concert HD
-http://46.161.5.140:44444/KLI_Concert_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Concert_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Horror HD" tvg-id="KLI_Horror_HD",KLI Horror HD
-http://46.161.5.140:44444/KLI_Horror_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Horror_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Action HD" tvg-id="KLI_Action_HD",KLI Action HD
-http://46.161.5.140:44444/KLI_Action_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Action_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Humor HD" tvg-id="KLI_Humor_HD",KLI Humor HD
-http://46.161.5.140:44444/KLI_Humor_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Humor_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Drama HD" tvg-id="KLI_Drama_HD",KLI Drama HD
-http://46.161.5.140:44444/KLI_Drama_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Drama_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Docu HD" tvg-id="KLI_Docu_HD",KLI Docu HD
-http://46.161.5.140:44444/KLI_Docu_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Docu_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Fantasy HD" tvg-id="KLI_Fantasy_HD",KLI Fantasy HD
-http://46.161.5.140:44444/KLI_Fantasy_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Fantasy_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Franchise HD" tvg-id="KLI_Franchise_HD",KLI Franchise HD
-http://46.161.5.140:44444/KLI_Franchise_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Franchise_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Marvel HD" tvg-id="KLI_Marvel_HD",KLI Marvel HD
-http://46.161.5.140:44444/KLI_Marvel_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Marvel_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Millennium HD" tvg-id="KLI_Millennium_HD",KLI Millennium HD
-http://46.161.5.140:44444/KLI_Millennium_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Millennium_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Music HD" tvg-id="KLI_Music_HD",KLI Music HD
-http://46.161.5.140:44444/KLI_Music_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Music_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Netflix HD" tvg-id="KLI_Netflix_HD",KLI Netflix HD
-http://46.161.5.140:44444/KLI_Netflix_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Netflix_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI Relax HD" tvg-id="KLI_Relax_HD",KLI Relax HD
-http://46.161.5.140:44444/KLI_Relax_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_Relax_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="KLI UHD 4K" tvg-id="KLI_UHD_4K",KLI UHD 4K
-http://46.161.5.140:44444/KLI_UHD_4K/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РљРёРЅРѕСЃРµСЂРёСЏ HD" tvg-id="KLI_Kinoseria_HD",KLI РљРёРЅРѕСЃРµСЂРёСЏ HD
-http://46.161.5.140:44444/KLI_Kinoseria_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РќРѕРІРёРЅРєРё 4K Ultra HD" tvg-id="KLI_Novinki_4K_Ultra_HD",KLI РќРѕРІРёРЅРєРё 4K Ultra HD
-http://46.161.5.140:44444/KLI_Novinki_4K_Ultra_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РќРѕРІРёРЅРєРё HD" tvg-id="KLI_Novinki_HD",KLI РќРѕРІРёРЅРєРё HD
-http://46.161.5.140:44444/KLI_Novinki_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РћРґРЅР°Р¶РґС‹ РІ Р РѕСЃСЃРёРё HD" tvg-id="KLI_Odnazhdy_v_Rossii_HD",KLI РћРґРЅР°Р¶РґС‹ РІ Р РѕСЃСЃРёРё HD
-http://46.161.5.140:44444/KLI_Odnazhdy_v_Rossii_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РћСЂС‘Р» Рё СЂРµС€РєР° HD" tvg-id="KLI_Orel_i_Reshka_HD",KLI РћСЂС‘Р» Рё СЂРµС€РєР° HD
-http://46.161.5.140:44444/KLI_Orel_i_Reshka_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РЎРµСЂРёР°Р» HD" tvg-id="KLI_Serial_HD",KLI РЎРµСЂРёР°Р» HD
-http://46.161.5.140:44444/KLI_Serial_HD/mpegts?token=xnYRmC2vW7S6f1
-#EXTINF:-1 tvg-name="KLI РЁР°РЅСЃРѕРЅ HD" tvg-id="KLI_Shanson_HD",KLI РЁР°РЅСЃРѕРЅ HD
-http://46.161.5.140:44444/KLI_Shanson_HD/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/KLI_UHD_4K/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Киносерия HD" tvg-id="KLI_Kinoseria_HD",KLI Киносерия HD
+http://46.161.5.140:44444/KLI_Kinoseria_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Новинки 4K Ultra HD" tvg-id="KLI_Novinki_4K_Ultra_HD",KLI Новинки 4K Ultra HD
+http://46.161.5.140:44444/KLI_Novinki_4K_Ultra_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Новинки HD" tvg-id="KLI_Novinki_HD",KLI Новинки HD
+http://46.161.5.140:44444/KLI_Novinki_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Однажды в России HD" tvg-id="KLI_Odnazhdy_v_Rossii_HD",KLI Однажды в России HD
+http://46.161.5.140:44444/KLI_Odnazhdy_v_Rossii_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Орёл и решка HD" tvg-id="KLI_Orel_i_Reshka_HD",KLI Орёл и решка HD
+http://46.161.5.140:44444/KLI_Orel_i_Reshka_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Сериал HD" tvg-id="KLI_Serial_HD",KLI Сериал HD
+http://46.161.5.140:44444/KLI_Serial_HD/video.m3u8?token=xnYRmC2vW7S6f1
+#EXTINF:-1 tvg-name="KLI Шансон HD" tvg-id="KLI_Shanson_HD",KLI Шансон HD
+http://46.161.5.140:44444/KLI_Shanson_HD/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Karate" tvg-id="Magic_Karate",Magic Karate
-http://46.161.5.140:44444/Magic_Karate/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Karate/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic VHS" tvg-id="Magic_VHS",Magic VHS
-http://46.161.5.140:44444/Magic_VHS/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_VHS/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Comedy" tvg-id="Magic_Comedy",Magic Comedy
-http://46.161.5.140:44444/Magic_Comedy/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Comedy/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Disney" tvg-id="Magic_Disney",Magic Disney
-http://46.161.5.140:44444/Magic_Disney/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Disney/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Thriller" tvg-id="Magic_Thriller",Magic Thriller
-http://46.161.5.140:44444/Magic_Thriller/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Thriller/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Action" tvg-id="Magic_Action",Magic Action
-http://46.161.5.140:44444/Magic_Action/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Action/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Galaxy" tvg-id="Magic_Galaxy",Magic Galaxy
-http://46.161.5.140:44444/Magic_Galaxy/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Galaxy/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Horror" tvg-id="Magic_Horror",Magic Horror
-http://46.161.5.140:44444/Magic_Horror/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Horror/video.m3u8?token=xnYRmC2vW7S6f1
 #EXTINF:-1 tvg-name="Magic Adventure" tvg-id="Magic_Adventure",Magic Adventure
-http://46.161.5.140:44444/Magic_Adventure/mpegts?token=xnYRmC2vW7S6f1
+http://46.161.5.140:44444/Magic_Adventure/video.m3u8?token=xnYRmC2vW7S6f1
